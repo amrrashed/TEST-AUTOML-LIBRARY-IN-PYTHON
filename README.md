@@ -21,4 +21,6 @@ MLjar (autoML library):https://colab.research.google.com/drive/1AfIjI_8drgZbRjXI
 
 MULTI-CLASSIFIERS(CROSS VALIDATION) : https://colab.research.google.com/drive/1lYu99ae2D3wWFFVWIOIwmTlscr3D6yDy?usp=sharing
 
+MLP WITH RANDOM SEARCH(CROSS VALIDATION) : https://colab.research.google.com/drive/17p00ooV2yjJxVRDS57uJnuOk12l5J-Xi?usp=sharing
+
 
